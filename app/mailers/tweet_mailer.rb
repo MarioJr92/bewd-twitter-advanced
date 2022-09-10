@@ -1,0 +1,2 @@
+class TweetMailer < ApplicationMailer
+end
